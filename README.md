@@ -1,16 +1,9 @@
-# instagram_clone
+# Instagram Ui Clone
 
-A new Flutter project.
+## Dependencies
 
-## Getting Started
+ - [Font Awesome (For Icons)](https://pub.dev/packages/font_awesome_flutter)
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![enter image description here](https://github.com/nisadrahman/Flutter-Instagram-Ui-Clone/blob/master/Screenshot_2019-12-02-23-34-42-922_com.example.instagram_clone.jpg?raw=true)
